@@ -1,1 +1,1 @@
-# Introduction-to-Artificial-Intelligence
+# Assignments from the course Introduction to Artificial Intelligence.
